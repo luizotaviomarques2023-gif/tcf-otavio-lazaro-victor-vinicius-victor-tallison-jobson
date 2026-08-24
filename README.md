@@ -7,3 +7,5 @@ Deploy from a branch
 main
 / (root)
 https://os meno.github.io/site-tcf/
+git remote add origin https://github.com/SEU-USUARIO/site-tcf.git
+git push -u origin main
